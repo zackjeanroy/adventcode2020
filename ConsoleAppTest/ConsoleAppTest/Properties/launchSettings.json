@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppTest": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\zackj\\source\\repos\\ConsoleAppTest\\ConsoleAppTest\\files\\adventday3.txt"
+    }
+  }
+}
